@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5ab9c929ff78b6",
+        "id": "58caef4d3a43e1bb",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ad995fbe89b877",
+            "id": "38909a0fd61059ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "237fc9a0005175d7",
@@ -188,11 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5ad995fbe89b877",
+  "active": "38909a0fd61059ac",
   "lastOpenFiles": [
+    "posts/Untitled.md",
+    "posts/ustl-overview.md",
     "_index.md",
     "about.md",
-    "posts/ustl-overview.md",
     "2025-01-13.md",
     "UST Library/USTL Overview.md",
     "UST Library/User Space Thread Library Overview.md",
@@ -218,7 +220,6 @@
     "Daily Notes/2024-09-13.md",
     "Daily Notes/2024-08-25.md",
     "Daily Notes/2024-07-19.md",
-    "Daily Notes/2024-06-17 2.md",
     "Daily Notes",
     "Screen Shot 2024-01-14 at 3.18.00 PM.png",
     "Personal/Logs",
