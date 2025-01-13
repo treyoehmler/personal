@@ -1,13 +1,18 @@
 ---
-title: "User Space Thread Library Overview"
+title: User Space Thread Library Overview
 date: 2025-01-12
-description: "Overview of user space thread library"
-summary: "Learn more about me and why I am starting this blog."
-tags: ["welcome", "new", "about", "first"]
+description: Overview of user space thread library
+summary: sticky
+tags:
+  - welcome
+  - new
+  - about
+  - first
 ---
-
+oh so sticky
 {add some overview, like 3-4 sentences} - not sure this will end up being a public doc in some way, probably just gonna use this to lay out the various phases and base requirements, tests, etc.
 
+test test test
 ## Requirements
 
 #### Thread management
