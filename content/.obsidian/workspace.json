@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5ab9c929ff78b6",
+        "id": "9ad2779009ba5e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ad995fbe89b877",
+            "id": "713ecbcf0eb38fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/ustl-overview.md",
+                "file": "posts/thinking-about-salad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ustl-overview"
-            }
-          }
-        ]
-      },
-      {
-        "id": "77d718da20b9ebbd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b9dd7d2a7d5f4c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/test-post.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test-post"
+              "title": "thinking-about-salad"
             }
           }
         ]
@@ -179,19 +159,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "a9b285bacc73facf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,16 +176,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:Open graph view": false
     }
   },
-  "active": "0b9dd7d2a7d5f4c6",
+  "active": "713ecbcf0eb38fde",
   "lastOpenFiles": [
-    "_index.md",
-    "about.md",
+    "posts/thinking-about-salad.md",
     "posts/test-post.md",
     "posts/ustl-overview.md",
+    "_index.md",
+    "about.md",
     "2025-01-13.md",
     "UST Library/USTL Overview.md",
     "UST Library/User Space Thread Library Overview.md",
@@ -240,7 +210,6 @@
     "Daily Notes/2024-10-14.md",
     "Daily Notes/2024-09-13.md",
     "Daily Notes/2024-08-25.md",
-    "Daily Notes/2024-07-19.md",
     "Daily Notes",
     "Screen Shot 2024-01-14 at 3.18.00 PM.png",
     "Personal/Logs",

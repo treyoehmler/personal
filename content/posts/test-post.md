@@ -9,9 +9,3 @@ tags:
   - welcome
 ---
 
-this is a test post
-
----
-
-testing
-
