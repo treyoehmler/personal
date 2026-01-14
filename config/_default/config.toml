@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 theme = "congo"
 
-# baseURL = "https://treyoehmler.com/"
+baseURL = "https://treyoehmler.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
